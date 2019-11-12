@@ -6,7 +6,5 @@ data
 fasttext
 result
 build
-*.a
-*.so
 *~
 *.pyc
