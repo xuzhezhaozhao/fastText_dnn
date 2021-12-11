@@ -2,6 +2,8 @@
 
 [fastText](https://fasttext.cc/) is a library for efficient learning of word representations and sentence classification.
 
+添加 xcbow 模式，支持 youtube dnn 模型。
+
 封装成 API 形式
 
 用法:
